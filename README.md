@@ -7,3 +7,25 @@ The evaluation of models relied on essential performance indicators including ac
 
 The entire implementation process occurred within the Python environment from Jupyter Notebook while adhering to standard practices in machine learning. The project provides hands-on evidence about using AI technology to address environmental issues.
 
+About the code
+
+Dependencies:
+- pandas
+- numpy
+- warnings
+- scikit-learn
+- XG boost
+- matplotlib
+- seaborn
+
+Usage:
+- Open the notebook in Jupyter or JupyterLab and run the cells sequentially.
+- Ensure all necessary libraries are installed before execution.
+
+Steps:
+1. Load and preprocess the dataset (e.g., cleaning, feature engineering).
+2. Exploratory Data Analysis and Visualization.
+3. Train models: Random Forest, SVM, GBC, KNN and XGBoost.
+4. Evaluate models using cross-validation and compare their performance.
+5. Visualize model performance with metrics such as accuracy, ROC curves.
+6. All models comparison.
